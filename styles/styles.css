@@ -1,0 +1,28 @@
+body {
+    background-color: #28282D;
+}
+#navigateur{
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+    color: aliceblue;
+    text-align: center;
+    letter-spacing: 10px;
+    margin-top: 250px;
+    font-size: 60px;
+}
+#etudiant {
+    font-family: "Montserrat", sans-serif;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+#navigateur a {
+    font-family: "Montserrat", sans-serif;
+    display: inline;
+    color: aliceblue;
+    margin: 10px;
+}
